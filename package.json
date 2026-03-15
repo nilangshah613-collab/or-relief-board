@@ -1,9 +1,0 @@
-{
-  "name": "or-relief-board",
-  "version": "1.0.0",
-  "description": "OR Relief Board — Qgenda-connected anesthesia room management",
-  "private": true,
-  "engines": {
-    "node": ">=18"
-  }
-}
